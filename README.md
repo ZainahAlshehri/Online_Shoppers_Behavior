@@ -1,4 +1,8 @@
 # Online Shoppers Behavior
+<p align="center">
+<img src="https://github.com/ZainahAlshehri/Online_Shoppers_Behavior/blob/main/online_shoppers.png" width="400" height="300" />
+  </p>
+  
 ### Overview:
 The main objective revolved around the identification of key metrics which contributes the most towards predicting a shopper's behavior and to suggest prioritized critical recommendations and performance improvements on the same. 
 
