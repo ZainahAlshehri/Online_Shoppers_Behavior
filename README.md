@@ -4,7 +4,7 @@
   </p>
   
 ### Overview:
-The main objective revolved around the identification of key metrics which contributes the most towards predicting a shopper's behavior and to suggest prioritized critical recommendations and performance improvements on the same. 
+The main objective revolved around the identification of key metrics which contributes the most towards predicting a shopper's behavior and to suggest prioritized critical recommendations and performance improvements . 
 
 
 ### Business Problem:
