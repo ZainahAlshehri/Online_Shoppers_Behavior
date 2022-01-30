@@ -10,6 +10,8 @@ The main objective revolved around the identification of key metrics which contr
 ### Business Problem:
 A shopping website receives more clicks than sales, with fewer potential customers. That means they don't attract their target market, and they must adapt their marketing strategies to boost sales.
 
+
+
 ### Data Description:
  our dataset has 10 numerical features and 8 categorical features. 
 
@@ -24,6 +26,8 @@ A shopping website receives more clicks than sales, with fewer potential custome
 * ExitRates: The percentage of pageviews on the website that end at that specific page.
 * PageValues: The average value of the page averaged over the value of the target page and/or the completion of an E-commerce   transaction.
 
+## Target Column
+Revenue is the attribute of interest which identifies if a purchase was made or not
 
 ### Tools:
 * Libraries : Pandas , NumPy , Matplotlib ,seaborn ,Scikit-learn.
